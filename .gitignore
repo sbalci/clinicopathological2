@@ -3,7 +3,6 @@ out
 r-mac
 r-win
 package-lock.json
-.Rhistory
 .Rproj.user
 r-shiny-electron.Rproj
 shiny/.Rproj.user
@@ -12,4 +11,3 @@ shiny/.RData
 shiny/.Ruserdata
 shiny/rsconnect
 shiny/.Rhistory
-.DS_Store
